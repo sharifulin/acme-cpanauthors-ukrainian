@@ -4,7 +4,7 @@ use utf8; # encoding="utf-8"
 use warnings;
 use strict;
 
-our $VERSION = '0.1';
+our $VERSION = '0.12';
 
 use Acme::CPANAuthors::Register (
 	CUB       => 'Kostyuk Oleg',
