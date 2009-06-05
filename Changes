@@ -1,5 +1,8 @@
 Revision history for Acme-CPANAuthors-Ukrainian
 
+0.13  2009-06-04 16:06
+	[rt.cpan.org #46551] wrong prereq in test suite
+
 0.12  2009-04-24 01:43
 	Add examples/test.pl
 
