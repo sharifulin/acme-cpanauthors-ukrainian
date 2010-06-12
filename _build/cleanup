@@ -1,4 +1,0 @@
-do{ my $x = {
-       'Acme-CPANAuthors-Ukrainian-0.14' => 1
-     };
-$x; }
