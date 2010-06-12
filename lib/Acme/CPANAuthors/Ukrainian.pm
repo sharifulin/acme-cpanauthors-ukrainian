@@ -4,7 +4,7 @@ use utf8; # encoding="utf-8"
 use warnings;
 use strict;
 
-our $VERSION = '0.13';
+our $VERSION = '0.14';
 
 use Acme::CPANAuthors::Register (
 	CUB       => 'Kostyuk Oleg',
@@ -18,6 +18,7 @@ use Acme::CPANAuthors::Register (
 	VADIM     => 'Vadim Ponomarenko',
 	VIY       => 'Igor Yu. Vlasenko',
 	VTI       => 'Вячеслав Тихановский',
+	ZERO      => 'Oleg Alistratov',
 );
 
 1;
@@ -70,6 +71,7 @@ Now B<11> Ukrainian CPAN authors:
 	VADIM     => 'Vadim Ponomarenko',
 	VIY       => 'Igor Yu. Vlasenko',
 	VTI       => 'Вячеслав Тихановский',
+	ZERO      => 'Oleg Alistratov'
 
 =head1 SEE ALSO
 
