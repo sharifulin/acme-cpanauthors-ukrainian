@@ -1,7 +1,7 @@
 Build.PL
 Changes
 MANIFEST
-README
+README.pod
 lib/Acme/CPANAuthors/Ukrainian.pm
 examples/test.pl
 t/00-load.t
