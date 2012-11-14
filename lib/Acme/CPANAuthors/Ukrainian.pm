@@ -4,7 +4,7 @@ use utf8; # encoding="utf-8"
 use warnings;
 use strict;
 
-our $VERSION = '0.16';
+our $VERSION = '0.17';
 
 use Acme::CPANAuthors::Register (
 	CUB       => 'Kostyuk Oleg',
@@ -19,6 +19,7 @@ use Acme::CPANAuthors::Register (
 	VIY       => 'Igor Yu. Vlasenko',
 	VTI       => 'Вячеслав Тихановский',
 	YKO       => 'Ярослав Коршак',
+	YSYROTA   => 'Юрій Сирота',
 	ZERO      => 'Oleg Alistratov',
 );
 
@@ -59,7 +60,7 @@ via email or RT so I can always keep this module up to date.
 
 =head1 CONTAINED AUTHORS
 
-Now B<13> Ukrainian CPAN authors:
+Now B<14> Ukrainian CPAN authors:
 
 	CUB       => 'Kostyuk Oleg',
 	DARKNOS   => 'Sergey Nosenko',
@@ -73,6 +74,7 @@ Now B<13> Ukrainian CPAN authors:
 	VIY       => 'Igor Yu. Vlasenko',
 	VTI       => 'Вячеслав Тихановский',
 	YKO       => 'Ярослав Коршак',
+	YSYROTA   => 'Юрій Сирота',
 	ZERO      => 'Oleg Alistratov'
 
 =head1 SEE ALSO
