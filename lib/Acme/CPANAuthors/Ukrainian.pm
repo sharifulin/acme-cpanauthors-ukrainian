@@ -13,6 +13,7 @@ use Acme::CPANAuthors::Register (
 	EJS       => 'Eugen Sobchenko',
 	GRUBER    => 'Anton Berezin',
 	GUGU      => 'Андрей Костенко',
+	KOORCHIK  => 'Viktor Turskyi',
 	PANOLEX   => 'Олександр Панчук',
 	SKOLYCHEV => 'Sergey V. Kolychev',
 	VADIM     => 'Vadim Ponomarenko',
@@ -60,7 +61,7 @@ via email or RT so I can always keep this module up to date.
 
 =head1 CONTAINED AUTHORS
 
-Now B<14> Ukrainian CPAN authors:
+Now B<15> Ukrainian CPAN authors:
 
 	CUB       => 'Kostyuk Oleg',
 	DARKNOS   => 'Sergey Nosenko',
@@ -68,6 +69,7 @@ Now B<14> Ukrainian CPAN authors:
 	EJS       => 'Eugen Sobchenko',
 	GRUBER    => 'Anton Berezin',
 	GUGU      => 'Андрей Костенко',
+	KOORCHIK  => 'Viktor Turskyi',
 	PANOLEX   => 'Олександр Панчук',
 	SKOLYCHEV => 'Sergey V. Kolychev',
 	VADIM     => 'Vadim Ponomarenko',
