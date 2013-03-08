@@ -7,6 +7,7 @@ use strict;
 our $VERSION = '0.17';
 
 use Acme::CPANAuthors::Register (
+	CONO      => 'Варяник Алексей',
 	CUB       => 'Kostyuk Oleg',
 	DARKNOS   => 'Sergey Nosenko',
 	DZHARIY   => 'Дмитрий Жарий',
@@ -61,8 +62,9 @@ via email or RT so I can always keep this module up to date.
 
 =head1 CONTAINED AUTHORS
 
-Now B<15> Ukrainian CPAN authors:
+Now B<16> Ukrainian CPAN authors:
 
+	CONO      => 'Варяник Алексей',
 	CUB       => 'Kostyuk Oleg',
 	DARKNOS   => 'Sergey Nosenko',
 	DZHARIY   => 'Дмитрий Жарий',
