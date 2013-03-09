@@ -7,12 +7,14 @@ use strict;
 our $VERSION = '0.17';
 
 use Acme::CPANAuthors::Register (
+	CONO      => 'Варяник Алексей',
 	CUB       => 'Kostyuk Oleg',
 	DARKNOS   => 'Sergey Nosenko',
 	DZHARIY   => 'Дмитрий Жарий',
 	EJS       => 'Eugen Sobchenko',
 	GRUBER    => 'Anton Berezin',
 	GUGU      => 'Андрей Костенко',
+	KOORCHIK  => 'Viktor Turskyi',
 	PANOLEX   => 'Олександр Панчук',
 	SKOLYCHEV => 'Sergey V. Kolychev',
 	VADIM     => 'Vadim Ponomarenko',
@@ -60,14 +62,16 @@ via email or RT so I can always keep this module up to date.
 
 =head1 CONTAINED AUTHORS
 
-Now B<14> Ukrainian CPAN authors:
+Now B<16> Ukrainian CPAN authors:
 
+	CONO      => 'Варяник Алексей',
 	CUB       => 'Kostyuk Oleg',
 	DARKNOS   => 'Sergey Nosenko',
 	DZHARIY   => 'Дмитрий Жарий',
 	EJS       => 'Eugen Sobchenko',
 	GRUBER    => 'Anton Berezin',
 	GUGU      => 'Андрей Костенко',
+	KOORCHIK  => 'Viktor Turskyi',
 	PANOLEX   => 'Олександр Панчук',
 	SKOLYCHEV => 'Sergey V. Kolychev',
 	VADIM     => 'Vadim Ponomarenko',
